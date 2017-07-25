@@ -1,0 +1,2 @@
+module KaikatsuHelper
+end
